@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /binoRM-closed/
+
+User-agent: AdsBot-Google
+Disallow: /binoRM-closed/
